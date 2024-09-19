@@ -1,3 +1,3 @@
 public class OwnMath {
-    final double PI = 3.14;
+    static final double PI = 3.14;
 }
